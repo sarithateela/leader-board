@@ -151,13 +151,3 @@ function activateButtons() {
         });
     });
 }
-// let isFirstImage = true;
-// setInterval(() => {
-//     if (isFirstImage) {
-//         document.body.style.backgroundImage = "url('https://www.creditbenchmark.com/wp-content/uploads/2023/05/iStock-1419766496.jpg')";
-//     } else {
-//         document.body.style.backgroundImage = "url('https://cdn.dribbble.com/userupload/3066902/file/original-7bd367911dd95e99794eba83317f2532.png?resize=400x0')";
-//     }
-//     isFirstImage = !isFirstImage;
-// }, 6000);
-// window.addEventListener('load', updateData);
